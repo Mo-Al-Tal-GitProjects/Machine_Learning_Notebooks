@@ -1,2 +1,2 @@
-# BTTAI
-MIT A.I &amp; M.L Fellowship Repo
+# BTTAI x MIT
+- Repo for MIT Summer 2024 Fellowship
